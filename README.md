@@ -1,4 +1,5 @@
-------------------
+#Checkout Service API
+---------------------
 
 Checkout Sevice API is designed to calculate the checkout total for the checkout items. It accepts items and promotions(Special Prices) for every checkout transaction and returns the checkout total.
 
